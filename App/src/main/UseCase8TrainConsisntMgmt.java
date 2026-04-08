@@ -51,5 +51,7 @@ public class UseCase8TrainConsisntMgmt {
 
         System.out.println("\nUC8 filtering completed...");
     }
-}{
+}
+
+{
 }
